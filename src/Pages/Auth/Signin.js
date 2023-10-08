@@ -7,9 +7,9 @@ const Signin = () => {
   return (
     <div >
       <div>
-        <img src={logo} alt="logo" className="w-[210px] h-[72px] mt-2"></img>
+        <img src={logo} alt="logo" className="w-[210px] h-[80px] mt-2"></img>
       </div>
-      <div className='mx-20 my-10 flex justify-between shadow-custom'>
+      <div className='mx-20 my-8 flex justify-between shadow-custom'>
         <div className='w-[900px] h-[780px] pt-20'>
           <p className="text-6xl text-center -mt-8 text-vividblue ">LOGIN</p>
           <p className='text-lg text-gray pt-5 tracking-widest text-center'>Doesn't have an account? <span className='text-pumpkinyellow underline' to="/signup">Sign up</span></p>

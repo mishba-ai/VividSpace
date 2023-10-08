@@ -5,7 +5,7 @@ import  healbrain from '../../Assets/healbrain.png'
 const signup = () => {
   return (
     <div className=''>
-      <img src={logo} alt="logoimg" className="w-[180px] h-[65px] mt-2"></img>
+      <img src={logo} alt="logoimg" className="w-[210px] h-[100px] mt-2"></img>
       <div className='flex'>
         <img src={healbrain} alt="dreaming" className='w-[1100px] h-[820px] ml-24 -mt-4 ' />
 

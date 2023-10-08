@@ -19,7 +19,7 @@ function Home() {
                     </div>
                 </div>
 
-                <div className='mt-0 ml-14'>
+                <div className='my-2 ml-14'>
                     <div className='flex gap-x-5'>
                         <Box text={'upcoming events'} />
                         <Box text={'activity'} />
