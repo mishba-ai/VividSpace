@@ -23,14 +23,16 @@ module.exports = {
       liberty: '#534cb9',
       orange: '#f18585',
       darkyellow: '#fb8500',
-
-      extend: {
-        boxShadow: {
-          custom: ' 0px 4px 4px rgba(0, 0, 0, 0.25)'
-        },
-        
+      slate:'#e2e8f0',
+      pale:'#f9dcc4'
+    },
+    extend: {
+      boxShadow: {
+        custom: ' 0px 4px 4px rgba(0, 0, 0, 0.25)',
+       inner:'0 0 0 2px rgba(0, 0, 0, 0.1)'
 
       },
+
 
     },
     plugins: []
