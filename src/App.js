@@ -15,10 +15,10 @@ const App = () => {
             <Button text="Begin your story" to="/signup"></Button>
           </div>
         </div>
-        <img src={daydreamadult} alt="dreaminggirl" className='w-[600px] h-[450px] transform scale-x-[-1] -mt-12 mr-5'></img> 
-        
+        <img src={daydreamadult} alt="dreaminggirl" className='w-[600px] h-[450px] transform scale-x-[-1] -mt-12 mr-5'></img>
+
       </div>
-      
+
     </div>
   )
 }

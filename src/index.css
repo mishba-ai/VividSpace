@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Averia+Sans+Libre:wght@300&family=Caveat:wght@600&family=Inconsolata&family=Kanit:wght@200&family=Montserrat:wght@300&family=Ysabeau+Infant:ital,wght@0,200;1,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Averia+Sans+Libre:wght@300&family=Caveat:wght@600&family=Gluten:wght@300&family=Inconsolata&family=Kanit:wght@200&family=Montserrat:wght@300&family=Ysabeau+Infant:ital,wght@0,200;1,100&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'Averia sans libre';
-  src: url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Averia+Sans+Libre:wght@300;400&family=Inconsolata&family=Kanit:wght@200&family=Montserrat:wght@300&family=Ysabeau+Infant:ital,wght@0,200;1,100&display=swap");
-}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

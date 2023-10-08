@@ -1,15 +1,13 @@
 import logo from '../../Assets/vividspace2.png'
 import Input from '../../Components/Input'
 import Button from '../../Components/Button'
-import cutecomm from '../../Assets/cutecomm.jpeg'
-import daydreamadult from '../../Assets/daydreamadult.jpeg'
-import daydreamcomm from '../../Assets/daydreamcomm.jpeg'
+import  healbrain from '../../Assets/healbrain.png'
 const signup = () => {
   return (
     <div className=''>
       <img src={logo} alt="logoimg" className="w-[180px] h-[65px] mt-2"></img>
       <div className='flex'>
-        <img src={cutecomm} alt="dreaming" className='w-[1050px] h-[820px] ml-24 -mt-4 ' />
+        <img src={healbrain} alt="dreaming" className='w-[1100px] h-[820px] ml-24 -mt-4 ' />
 
         <div className=' '>
           <form className='w-[550px] h-[600px] text-center shadow-custom rounded-md -ml-19 mt-20'>
